@@ -1,0 +1,5 @@
+[
+    {"pregunta": "¿Qué instrucción se usa para imprimir en Python?", "respuesta": "print"},
+    {"pregunta": "¿Cómo se declara una variable con valor 10 en Python?", "respuesta": "x = 10"},
+    {"pregunta": "¿Qué palabra clave se usa para definir una función?", "respuesta": "def"}
+]
