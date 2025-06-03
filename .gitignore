@@ -1,0 +1,27 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Dataset y archivos grandes
+dataset/
+data/
+*.zip
+*.tar.gz
+
+# Modelos entrenados
+models/
+*.h5
+*.ckpt
+*.pb
+
+# Archivos temporales y Jupyter
+.ipynb_checkpoints/
+*.log
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Config VSCode (opcional)
+.vscode/
