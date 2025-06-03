@@ -1,0 +1,17 @@
+{
+    "git.autofetch": true,
+    "editor.fontSize": 16,
+    "editor.scrollbar.verticalScrollbarSize": 16,
+    
+    "terminal.integrated.profiles.linux": {
+        "bash": {
+            "path": "bash",
+            "icon": "terminal-bash"
+        },
+        "zsh": {
+            "path": "zsh",
+            "icon": "terminal-zsh"
+        }
+    },
+    "terminal.integrated.defaultProfile.linux": "zsh"
+}
